@@ -1,11 +1,16 @@
 '@context': http://schema.org/
 creativeWorkStatus: Published
 creator:
-  - name: Technische Informationsbibliothek (TIB) - Leibniz-Informationszentrum Technik
-      und Naturwissenschaften - Universitätsbibliothek
-    id: https://ror.org/04aj4c181
-    type: Organization
-dateModified: '2023-09-19T10:26:16Z'
+  - givenName: Sophie
+    familyName: Matter
+    type: Person
+    affiliation:
+      name: >-
+        Technische Informationsbibliothek (TIB) - Leibniz-Informationszentrum
+        Technik und Naturwissenschaften - Universitätsbibliothek
+      id: https://ror.org/04aj4c181
+      type: Organization
+dateModified: '2023-10-10T14:25:00Z'
 datePublished: '2023-09-07'
 description: This template can be used to generate HTML and PDF slides automatically
   using markdown.
